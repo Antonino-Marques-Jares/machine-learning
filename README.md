@@ -2,5 +2,6 @@
 
 1) Classificação
 
-Fonte:
-Curso "Machine Learning com Python: Classificação" - Alura
+Fontes:
+
+- Curso "Machine Learning com Python: Classificação" - Alura

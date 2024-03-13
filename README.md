@@ -2,13 +2,13 @@
 
 1) [Classificação](https://github.com/Antonino-Marques-Jares/machine-learning/blob/main/classificacao.ipynb)
 
-   Como classificar informações a serem processadas pela Inteligência Artificial.
+   - Como NORMALIZAR os dados 
    
-   Preparação para Teste e Treino
+   - Preparação agrupar dados de TESTE e TREINO
    
-   Salvar arquivo de IA para utilizarmos posteriormente
+   - SALVAR arquivo de IA já treinado para utilizarmos posteriormente
    
-   Exemplo de como utilizar a IA já salva.
+   - Utilizando a IA treinada e salva para IDENTIFICAR A CLASSE de um novo registro.
 
 Fontes:
 
